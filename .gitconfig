@@ -89,3 +89,5 @@
 	cmd = git-nbmergetool merge \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"
 [mergetool]
 	prompt = false
+[credential "https://github.com"]
+	helper = store --file=/tmp/tmpemt5it0h
