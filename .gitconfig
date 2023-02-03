@@ -1,7 +1,7 @@
 # -*- mode: conf -*-
 [user]
-	name = Fernando Perez
-	email = Fernando.Perez@berkeley.edu
+	name = Gabriel Mendez
+	email = mendezg3@berkeley.edu
 
 [include]
   # For Github username / creds / system-specific stuff, etc
@@ -12,6 +12,7 @@
 
 [core]
 	excludesfile = ~/.gitignore
+	editor = nano
 
 [alias]
 	ci = commit -a
