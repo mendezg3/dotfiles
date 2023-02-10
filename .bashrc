@@ -38,7 +38,7 @@ fi
 # My usual login name on most machines.  This file is set to display any login
 # that is NOT this one in red (root, when I log into machines with an atypical
 # login, etc.).
-export MYLOGIN="fperez"
+export MYLOGIN="mendezg3"
 
 ############################################################################
 #
