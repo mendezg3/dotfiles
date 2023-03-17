@@ -90,4 +90,4 @@
 [mergetool]
 	prompt = false
 [credential "https://github.com"]
-	helper = store --file=/tmp/tmpemt5it0h
+	helper = store --file=/tmp/tmp7ztat4d3
